@@ -1,4 +1,4 @@
-The Enhanced Security with Separation of Duties
+Enhanced Security with Separation of Duties
 
 Objective
 
